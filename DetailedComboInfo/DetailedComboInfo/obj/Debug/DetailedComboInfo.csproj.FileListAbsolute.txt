@@ -1,0 +1,6 @@
+L:\Projects\MyMod\DetailedComboInfo\DetailedComboInfo\bin\Debug\DetailedComboInfo.dll
+L:\Projects\MyMod\DetailedComboInfo\DetailedComboInfo\bin\Debug\DetailedComboInfo.pdb
+L:\Projects\MyMod\DetailedComboInfo\DetailedComboInfo\obj\Debug\DetailedComboInfo.csproj.AssemblyReference.cache
+L:\Projects\MyMod\DetailedComboInfo\DetailedComboInfo\obj\Debug\DetailedComboInfo.csproj.CoreCompileInputs.cache
+L:\Projects\MyMod\DetailedComboInfo\DetailedComboInfo\obj\Debug\DetailedComboInfo.dll
+L:\Projects\MyMod\DetailedComboInfo\DetailedComboInfo\obj\Debug\DetailedComboInfo.pdb

@@ -1,0 +1,6 @@
+L:\Projects\MyMod\EnemyHPBar\EnemyHPBar\bin\Debug\EnemyHPBar.dll
+L:\Projects\MyMod\EnemyHPBar\EnemyHPBar\bin\Debug\EnemyHPBar.pdb
+L:\Projects\MyMod\EnemyHPBar\EnemyHPBar\obj\Debug\EnemyHPBar.csproj.AssemblyReference.cache
+L:\Projects\MyMod\EnemyHPBar\EnemyHPBar\obj\Debug\EnemyHPBar.csproj.CoreCompileInputs.cache
+L:\Projects\MyMod\EnemyHPBar\EnemyHPBar\obj\Debug\EnemyHPBar.dll
+L:\Projects\MyMod\EnemyHPBar\EnemyHPBar\obj\Debug\EnemyHPBar.pdb
